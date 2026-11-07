@@ -1,0 +1,3608 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Locket Charm Bracelet",
+      "description": "A mini locket that opens, on a delicate chain.",
+      "category": "bracelets",
+      "price": 13.99,
+      "discountPercentage": 9.46,
+      "rating": 3.78,
+      "stock": 3,
+      "tags": [
+        "vintage",
+        "bracelet"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "BRA-VIN-001",
+      "weight": 1,
+      "dimensions": {
+        "width": 5.05,
+        "height": 4.53,
+        "depth": 0.46
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-05-07T00:00:00.604Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-08-27T00:00:00.055Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-08-20T00:00:00.174Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2026-06-06T00:00:00.626Z",
+        "updatedAt": "2026-08-11T00:00:00.986Z",
+        "barcode": "8940187715013",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+        "https://i.pinimg.com/736x/6d/f7/d8/6df7d8f34f6c805fd65620cf52f97e7f.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=locket-charm-bracelet"
+    },
+    {
+      "id": 2,
+      "title": "Cameo Cocktail Ring",
+      "description": "A small oval cameo on an adjustable gold band.",
+      "category": "rings",
+      "price": 25.99,
+      "discountPercentage": 10.04,
+      "rating": 4.52,
+      "stock": 3,
+      "tags": [
+        "vintage",
+        "ring"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "RIN-VIN-002",
+      "weight": 5,
+      "dimensions": {
+        "width": 2.69,
+        "height": 4.21,
+        "depth": 0.83
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-01-14T00:00:00.649Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-03-15T00:00:00.099Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-08-05T00:00:00.251Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-12-09T00:00:00.550Z",
+        "updatedAt": "2025-12-20T00:00:00.824Z",
+        "barcode": "7794868888965",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+        "https://i.pinimg.com/1200x/f4/50/fd/f450fd23d40013c8bf49da397d913dec.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=cameo-cocktail-ring"
+    },
+    {
+      "id": 3,
+      "title": "Porcelain Bouquet Locket",
+      "description": "A tiny hand-painted flower bouquet on a cream porcelain face.",
+      "category": "necklaces",
+      "price": 19.99,
+      "discountPercentage": 4.5,
+      "rating": 3.66,
+      "stock": 60,
+      "tags": [
+        "vintage",
+        "necklace"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "NEC-VIN-003",
+      "weight": 1,
+      "dimensions": {
+        "width": 2.07,
+        "height": 7.3,
+        "depth": 1.96
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-01-04T00:00:00.385Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-09-15T00:00:00.815Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-08-26T00:00:00.334Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-02-02T00:00:00.356Z",
+        "updatedAt": "2026-02-19T00:00:00.516Z",
+        "barcode": "0457408071371",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+       "https://i.pinimg.com/1200x/11/6c/73/116c7362721652713c7b035a53f315f5.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=porcelain-bouquet-locket"
+    },
+    {
+      "id": 4,
+      "title": "Skull Band",
+      "description": "A thick band with a finely detailed carved skull.",
+      "category": "rings",
+      "price": 15.99,
+      "discountPercentage": 10.8,
+      "rating": 4.03,
+      "stock": 0,
+      "tags": [
+        "gothic",
+        "ring"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "RIN-GOT-004",
+      "weight": 1,
+      "dimensions": {
+        "width": 2.82,
+        "height": 1.98,
+        "depth": 0.95
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-02-28T00:00:00.051Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-08-02T00:00:00.466Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-04-15T00:00:00.881Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-06-20T00:00:00.796Z",
+        "updatedAt": "2026-07-03T00:00:00.761Z",
+        "barcode": "5997218763265",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+        "https://i.pinimg.com/736x/e7/09/00/e709004e7803a93ca605f937737ff246.jpg"
+      
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=skull-band"
+    },
+    {
+      "id": 5,
+      "title": "Bat Studs",
+      "description": "Tiny bats with their wings spread wide.",
+      "category": "earrings",
+      "price": 22.99,
+      "discountPercentage": 3.89,
+      "rating": 3.64,
+      "stock": 0,
+      "tags": [
+        "gothic",
+        "earrings"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "EAR-GOT-005",
+      "weight": 2,
+      "dimensions": {
+        "width": 1.56,
+        "height": 4.05,
+        "depth": 1.4
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-09-05T00:00:00.801Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-09-22T00:00:00.298Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-09-24T00:00:00.762Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-07-04T00:00:00.500Z",
+        "updatedAt": "2025-07-13T00:00:00.557Z",
+        "barcode": "2540575811044",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/1200x/e6/e7/02/e6e7021e56e46efc53efde755c9ffe4b.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=bat-studs"
+    },
+    {
+      "id": 6,
+      "title": "Onyx Spike Ring",
+      "description": "A glossy black stone surrounded by tiny spikes.",
+      "category": "rings",
+      "price": 26.99,
+      "discountPercentage": 1.02,
+      "rating": 3.3,
+      "stock": 12,
+      "tags": [
+        "gothic",
+        "ring"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "RIN-GOT-006",
+      "weight": 1,
+      "dimensions": {
+        "width": 1.51,
+        "height": 4.79,
+        "depth": 0.33
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-04-11T00:00:00.899Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-01-21T00:00:00.643Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-01-05T00:00:00.277Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-10-13T00:00:00.495Z",
+        "updatedAt": "2026-01-18T00:00:00.490Z",
+        "barcode": "3341884887473",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/36/4f/90/364f9005770ef1a41c3270f7c2541086.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=onyx-spike-ring"
+    },
+    {
+      "id": 7,
+      "title": "Crimson Glass Heart Cord",
+      "description": "A big translucent red heart on a black cord. Bold and simple.",
+      "category": "necklaces",
+      "price": 40.99,
+      "discountPercentage": 12.26,
+      "rating": 3.26,
+      "stock": 99,
+      "tags": [
+        "trendy",
+        "necklace"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "NEC-TRE-007",
+      "weight": 2,
+      "dimensions": {
+        "width": 2.09,
+        "height": 7.99,
+        "depth": 1.8
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-04-21T00:00:00.871Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-03-11T00:00:00.238Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-06-27T00:00:00.924Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-06-13T00:00:00.265Z",
+        "updatedAt": "2025-08-21T00:00:00.397Z",
+        "barcode": "0847146026991",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+       "https://i.pinimg.com/1200x/a6/f6/85/a6f685a54991036842f5bb41f2d1b5de.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=crimson-glass-heart-cord"
+    },
+    {
+      "id": 8,
+      "title": "Cameo Studs",
+      "description": "Tiny portrait cameos with carved borders.",
+      "category": "earrings",
+      "price": 18.99,
+      "discountPercentage": 5.15,
+      "rating": 4.53,
+      "stock": 6,
+      "tags": [
+        "vintage",
+        "earrings"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "EAR-VIN-008",
+      "weight": 1,
+      "dimensions": {
+        "width": 1.94,
+        "height": 4.6,
+        "depth": 0.43
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-08-19T00:00:00.085Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-06-16T00:00:00.262Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-01-29T00:00:00.309Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-09-04T00:00:00.490Z",
+        "updatedAt": "2025-12-06T00:00:00.557Z",
+        "barcode": "6553438854153",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+       "https://i.pinimg.com/736x/b0/b6/69/b0b6690cb6c7f5229250957731cf07e6.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=cameo-studs"
+    },
+    {
+      "id": 9,
+      "title": "Chrome Cross Chain Bracelet",
+      "description": "A heavy chain made of cross-shaped links.",
+      "category": "bracelets",
+      "price": 22.99,
+      "discountPercentage": 8.65,
+      "rating": 4.09,
+      "stock": 12,
+      "tags": [
+        "gothic",
+        "bracelet"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "BRA-GOT-009",
+      "weight": 4,
+      "dimensions": {
+        "width": 3.9,
+        "height": 2.99,
+        "depth": 1.77
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-07-29T00:00:00.285Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-03-10T00:00:00.518Z",
+          "reviewerName": "Salma Tarek",
+          "reviewerEmail": "salma.tarek@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-02-18T00:00:00.354Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-05-30T00:00:00.956Z",
+        "updatedAt": "2025-06-09T00:00:00.488Z",
+        "barcode": "3764042492662",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+       "https://i.pinimg.com/736x/13/28/0f/13280f625e127cf9a26e570038b21bdb.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=chrome-cross-chain-bracelet"
+    },
+    {
+      "id": 10,
+      "title": "Chrome Butterfly Ring",
+      "description": "A shiny metal butterfly with cutout wings.",
+      "category": "rings",
+      "price": 9.99,
+      "discountPercentage": 16.85,
+      "rating": 4.0,
+      "stock": 6,
+      "tags": [
+        "trendy",
+        "ring"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "RIN-TRE-010",
+      "weight": 4,
+      "dimensions": {
+        "width": 5.13,
+        "height": 1.82,
+        "depth": 0.41
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-07-30T00:00:00.918Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-07-28T00:00:00.769Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-06T00:00:00.910Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2026-02-17T00:00:00.925Z",
+        "updatedAt": "2026-04-22T00:00:00.024Z",
+        "barcode": "3079757350145",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+     "https://i.pinimg.com/1200x/46/89/62/46896218917d72fad65b29370902ca23.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=chrome-butterfly-ring"
+    },
+    {
+      "id": 11,
+      "title": "Black Bead Gothic Egyptian Cross",
+      "description": "An oversized gothic cross on glossy black beads. Long enough to layer.",
+      "category": "necklaces",
+      "price": 26.99,
+      "discountPercentage": 4.15,
+      "rating": 3.68,
+      "stock": 85,
+      "tags": [
+        "gothic",
+        "necklace"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "NEC-GOT-011",
+      "weight": 5,
+      "dimensions": {
+        "width": 4.21,
+        "height": 1.7,
+        "depth": 1.98
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-07-22T00:00:00.430Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-01-01T00:00:00.276Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-06-05T00:00:00.906Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-06-06T00:00:00.791Z",
+        "updatedAt": "2026-07-01T00:00:00.624Z",
+        "barcode": "3200526349458",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/e2/35/b6/e235b6d3dadd13c2b3c05cfe96d1793f.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=black-bead-gothic-cross"
+    },
+    {
+      "id": 12,
+      "title": "Antique Heart Signet",
+      "description": "A signet-style ring with an engraved heart and an antique finish.",
+      "category": "rings",
+      "price": 9.99,
+      "discountPercentage": 14.03,
+      "rating": 4.78,
+      "stock": 6,
+      "tags": [
+        "vintage",
+        "ring"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "RIN-VIN-012",
+      "weight": 1,
+      "dimensions": {
+        "width": 5.78,
+        "height": 5.11,
+        "depth": 1.74
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-03-07T00:00:00.084Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-05-19T00:00:00.629Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-09-28T00:00:00.099Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2026-08-09T00:00:00.197Z",
+        "updatedAt": "2026-11-16T00:00:00.938Z",
+        "barcode": "6740449934596",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/27/3b/d5/273bd5f3eaa4e99d9c1fde700cd582bf.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=antique-heart-signet"
+    },
+    {
+      "id": 13,
+      "title": "Eight Ball Star Chain",
+      "description": "A black eight ball and a crystal-set star on a silver ball chain.",
+      "category": "necklaces",
+      "price": 24.99,
+      "discountPercentage": 5.95,
+      "rating": 4.71,
+      "stock": 3,
+      "tags": [
+        "trendy",
+        "necklace"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "NEC-TRE-013",
+      "weight": 1,
+      "dimensions": {
+        "width": 4.72,
+        "height": 6.45,
+        "depth": 1.67
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-07-27T00:00:00.583Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-04-08T00:00:00.516Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-06-24T00:00:00.824Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2026-06-09T00:00:00.711Z",
+        "updatedAt": "2026-09-19T00:00:00.378Z",
+        "barcode": "7747034036629",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+       "https://i.pinimg.com/1200x/c9/bc/ea/c9bcea02a8d66f878fb5a0059ffe9d21.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=eight-ball-star-chain"
+    },
+    {
+      "id": 14,
+      "title": "Blood Moon Cameo",
+      "description": "An oval pendant with a deep crimson stone, an ornate frame and a filigree bow bail.",
+      "category": "necklaces",
+      "price": 25.99,
+      "discountPercentage": 12.0,
+      "rating": 4.31,
+      "stock": 25,
+      "tags": [
+        "gothic",
+        "necklace"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "NEC-GOT-014",
+      "weight": 1,
+      "dimensions": {
+        "width": 3.37,
+        "height": 3.5,
+        "depth": 0.76
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-03-12T00:00:00.912Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-06-19T00:00:00.672Z",
+          "reviewerName": "Salma Tarek",
+          "reviewerEmail": "salma.tarek@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-09-25T00:00:00.598Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2026-01-13T00:00:00.068Z",
+        "updatedAt": "2026-03-22T00:00:00.748Z",
+        "barcode": "3104309719304",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/be/33/4e/be334e042272c69a3c100ccbabb512a2.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=blood-moon-cameo"
+    },
+    {
+      "id": 15,
+      "title": "Bat Wing Wrap Ring",
+      "description": "An adjustable wrap ring shaped like a pair of bat wings.",
+      "category": "rings",
+      "price": 12.99,
+      "discountPercentage": 11.1,
+      "rating": 3.66,
+      "stock": 40,
+      "tags": [
+        "gothic",
+        "ring"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "RIN-GOT-015",
+      "weight": 4,
+      "dimensions": {
+        "width": 3.82,
+        "height": 4.39,
+        "depth": 1.43
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-04-05T00:00:00.437Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-07-09T00:00:00.594Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-08-25T00:00:00.896Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-06-07T00:00:00.218Z",
+        "updatedAt": "2025-08-30T00:00:00.932Z",
+        "barcode": "6037621373175",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/1200x/7f/64/de/7f64de840898ac418ffaa8b2669c9b3a.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=bat-wing-wrap-ring"
+    },
+    {
+      "id": 16,
+      "title": "Rosary Bead Dangle",
+      "description": "Matte black beads ending in a mini cross.",
+      "category": "earrings",
+      "price": 21.99,
+      "discountPercentage": 15.38,
+      "rating": 4.5,
+      "stock": 99,
+      "tags": [
+        "gothic",
+        "earrings"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "EAR-GOT-016",
+      "weight": 5,
+      "dimensions": {
+        "width": 2.15,
+        "height": 2.77,
+        "depth": 1.19
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-07-21T00:00:00.569Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-08-30T00:00:00.434Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-01-18T00:00:00.696Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-10T00:00:00.954Z",
+        "updatedAt": "2025-02-11T00:00:00.232Z",
+        "barcode": "3396046036858",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/9c/20/4d/9c204dac56e097becdd946d1e705fdda.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=rosary-bead-dangle"
+    },
+    {
+      "id": 17,
+      "title": "Silver Pyramid Stud Cuff",
+      "description": "A wide cuff with shiny silver pyramid studs.",
+      "category": "bracelets",
+      "price": 21.99,
+      "discountPercentage": 11.27,
+      "rating": 4.65,
+      "stock": 12,
+      "tags": [
+        "trendy",
+        "bracelet"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "BRA-TRE-017",
+      "weight": 3,
+      "dimensions": {
+        "width": 4.19,
+        "height": 1.16,
+        "depth": 1.88
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-05-27T00:00:00.657Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-01-30T00:00:00.781Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-01-25T00:00:00.404Z",
+          "reviewerName": "Salma Tarek",
+          "reviewerEmail": "salma.tarek@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-09-14T00:00:00.343Z",
+        "updatedAt": "2025-10-27T00:00:00.695Z",
+        "barcode": "6981061768487",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/736x/19/d7/9e/19d79e524357b134879c82a18f209b19.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=silver-pyramid-stud-cuff"
+    },
+    {
+      "id": 18,
+      "title": "Emerald Glass Ring",
+      "description": "A green glass stone in a classic cut with decorative shoulders.",
+      "category": "rings",
+      "price": 10.99,
+      "discountPercentage": 2.71,
+      "rating": 4.31,
+      "stock": 40,
+      "tags": [
+        "vintage",
+        "ring"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "RIN-VIN-018",
+      "weight": 1,
+      "dimensions": {
+        "width": 5.28,
+        "height": 6.91,
+        "depth": 1.49
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-08-25T00:00:00.764Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-08-16T00:00:00.012Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-09-01T00:00:00.243Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-03-18T00:00:00.959Z",
+        "updatedAt": "2025-06-14T00:00:00.552Z",
+        "barcode": "7975013132464",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/86/2b/0d/862b0d360ffcd1f58401fdd549f68aca.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=emerald-glass-ring"
+    },
+    {
+      "id": 19,
+      "title": "Cyber Cross Ankh Studs",
+      "description": "Small chrome crosses with sharp lines.",
+      "category": "earrings",
+      "price": 12.99,
+      "discountPercentage": 13.55,
+      "rating": 3.69,
+      "stock": 40,
+      "tags": [
+        "trendy",
+        "earrings"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "EAR-TRE-019",
+      "weight": 2,
+      "dimensions": {
+        "width": 4.26,
+        "height": 7.82,
+        "depth": 1.05
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-03-06T00:00:00.637Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-05-18T00:00:00.820Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-03-06T00:00:00.205Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-07-29T00:00:00.258Z",
+        "updatedAt": "2025-11-14T00:00:00.646Z",
+        "barcode": "6361198135849",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+     "https://i.pinimg.com/736x/4a/ef/7f/4aef7fca0cdaefaa52faca47befa38f0.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=cyber-cross-studs"
+    },
+    {
+      "id": 20,
+      "title": "Rose Garden Ring",
+      "description": "Painted roses on enamel with a carved border.",
+      "category": "rings",
+      "price": 8.99,
+      "discountPercentage": 5.84,
+      "rating": 4.26,
+      "stock": 3,
+      "tags": [
+        "vintage",
+        "ring"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "RIN-VIN-020",
+      "weight": 1,
+      "dimensions": {
+        "width": 3.36,
+        "height": 6.12,
+        "depth": 0.75
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-03-25T00:00:00.650Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-03-27T00:00:00.328Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-07-19T00:00:00.435Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2026-03-08T00:00:00.017Z",
+        "updatedAt": "2026-07-05T00:00:00.598Z",
+        "barcode": "4831356454849",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+       "https://i.pinimg.com/1200x/56/ca/8d/56ca8da975f4c539b05c66dd5c4c33ba.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=rose-garden-ring"
+    },
+    {
+      "id": 21,
+      "title": "Pink Gem Heart Ring",
+      "description": "A sparkly pink gem heart in a silver setting.",
+      "category": "rings",
+      "price": 28.99,
+      "discountPercentage": 12.43,
+      "rating": 3.95,
+      "stock": 85,
+      "tags": [
+        "trendy",
+        "ring"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "RIN-TRE-021",
+      "weight": 5,
+      "dimensions": {
+        "width": 1.71,
+        "height": 5.99,
+        "depth": 1.98
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-02-22T00:00:00.626Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-03-23T00:00:00.259Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-06-02T00:00:00.561Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-19T00:00:00.795Z",
+        "updatedAt": "2025-06-30T00:00:00.085Z",
+        "barcode": "1443082847255",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/70/47/f8/7047f8a6d3a6e972cc8d14f4f4b4289b.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=pink-gem-heart-ring"
+    },
+    {
+      "id": 22,
+      "title": "Pearl Petal Ring",
+      "description": "A single pearl framed by slim gold petals.",
+      "category": "rings",
+      "price": 17.99,
+      "discountPercentage": 3.12,
+      "rating": 3.78,
+      "stock": 99,
+      "tags": [
+        "vintage",
+        "ring"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "RIN-VIN-022",
+      "weight": 4,
+      "dimensions": {
+        "width": 5.88,
+        "height": 6.56,
+        "depth": 1.59
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-10-08T00:00:00.790Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-05T00:00:00.883Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-07-24T00:00:00.050Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2026-07-18T00:00:00.926Z",
+        "updatedAt": "2026-09-18T00:00:00.380Z",
+        "barcode": "4248471981765",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/736x/20/a3/f7/20a3f77c71f9979cbd3902db79962b1b.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=pearl-petal-ring"
+    },
+    {
+      "id": 23,
+      "title": "Heart Link Bracelet",
+      "description": "Tiny connected hearts with a romantic feel.",
+      "category": "bracelets",
+      "price": 12.99,
+      "discountPercentage": 7.47,
+      "rating": 4.18,
+      "stock": 40,
+      "tags": [
+        "vintage",
+        "bracelet"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "BRA-VIN-023",
+      "weight": 2,
+      "dimensions": {
+        "width": 2.83,
+        "height": 5.19,
+        "depth": 0.86
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-09-27T00:00:00.499Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-01-05T00:00:00.382Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-02-23T00:00:00.007Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-03T00:00:00.188Z",
+        "updatedAt": "2025-03-16T00:00:00.509Z",
+        "barcode": "1738258963050",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+        "https://i.pinimg.com/736x/30/98/16/3098166ef8b113cbbaf3060ac7ba4813.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=heart-link-bracelet"
+    },
+    {
+      "id": 24,
+      "title": "Black Pyramid Stud Cuff",
+      "description": "A wide black faux leather cuff covered in black pyramid studs.",
+      "category": "bracelets",
+      "price": 9.99,
+      "discountPercentage": 2.61,
+      "rating": 4.54,
+      "stock": 0,
+      "tags": [
+        "gothic",
+        "bracelet"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "BRA-GOT-024",
+      "weight": 3,
+      "dimensions": {
+        "width": 3.15,
+        "height": 7.74,
+        "depth": 0.6
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-10-03T00:00:00.860Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-01-11T00:00:00.901Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-06-14T00:00:00.068Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-02-14T00:00:00.693Z",
+        "updatedAt": "2026-04-20T00:00:00.399Z",
+        "barcode": "9313916362688",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+   "https://i.pinimg.com/736x/1d/3c/a7/1d3ca7a93c760b8c80c160a4e3f750f2.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=black-pyramid-stud-cuff"
+    },
+    {
+      "id": 25,
+      "title": "Pink Edge Stud Cuff",
+      "description": "Silver studs with a pink edge. Cute meets punk.",
+      "category": "bracelets",
+      "price": 12.99,
+      "discountPercentage": 2.91,
+      "rating": 3.92,
+      "stock": 40,
+      "tags": [
+        "trendy",
+        "bracelet"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "BRA-TRE-025",
+      "weight": 3,
+      "dimensions": {
+        "width": 3.36,
+        "height": 1.22,
+        "depth": 0.98
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-02-28T00:00:00.944Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-02-19T00:00:00.424Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-10-02T00:00:00.143Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2026-07-16T00:00:00.447Z",
+        "updatedAt": "2026-10-16T00:00:00.706Z",
+        "barcode": "7545873086386",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+     "https://i.pinimg.com/1200x/88/c2/4e/88c24edadf93e5817362f5fac290b996.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=pink-edge-stud-cuff"
+    },
+    {
+      "id": 26,
+      "title": "Green Jade Oval Locket",
+      "description": "A dark green stone wrapped in a twisted rope border. Quiet luxury.",
+      "category": "necklaces",
+      "price": 36.99,
+      "discountPercentage": 2.63,
+      "rating": 3.89,
+      "stock": 25,
+      "tags": [
+        "vintage",
+        "necklace"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "NEC-VIN-026",
+      "weight": 5,
+      "dimensions": {
+        "width": 4.28,
+        "height": 6.65,
+        "depth": 1.93
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-01-13T00:00:00.787Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-05-02T00:00:00.797Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-01-25T00:00:00.644Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-08-01T00:00:00.182Z",
+        "updatedAt": "2026-08-04T00:00:00.731Z",
+        "barcode": "0471236567379",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/736x/17/f5/6e/17f56e7c1de352d1ba2f6dec0e7c8320.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=green-jade-oval-locket"
+    },
+    {
+      "id": 27,
+      "title": "Bat Wing Heart Locket",
+      "description": "A silver heart locket with an engraved bat on the front. Opens to hold a photo.",
+      "category": "necklaces",
+      "price": 25.99,
+      "discountPercentage": 1.25,
+      "rating": 3.22,
+      "stock": 6,
+      "tags": [
+        "gothic",
+        "necklace"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "NEC-GOT-027",
+      "weight": 3,
+      "dimensions": {
+        "width": 2.19,
+        "height": 5.93,
+        "depth": 0.66
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-04-11T00:00:00.703Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-09-05T00:00:00.618Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-08-04T00:00:00.048Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2025-11-15T00:00:00.179Z",
+        "updatedAt": "2026-03-12T00:00:00.951Z",
+        "barcode": "7025862920240",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/1200x/34/4a/ef/344aef41108806ad8c161bc4a526688f.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=bat-wing-heart-locket"
+    },
+    {
+      "id": 28,
+      "title": "Zip Grommet Cuff",
+      "description": "A punk cuff with a working zipper and metal grommets.",
+      "category": "bracelets",
+      "price": 13.99,
+      "discountPercentage": 17.38,
+      "rating": 3.93,
+      "stock": 3,
+      "tags": [
+        "gothic",
+        "bracelet"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "BRA-GOT-028",
+      "weight": 2,
+      "dimensions": {
+        "width": 3.45,
+        "height": 7.73,
+        "depth": 0.63
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-01-20T00:00:00.728Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-05-09T00:00:00.530Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-08-21T00:00:00.212Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-17T00:00:00.073Z",
+        "updatedAt": "2025-06-22T00:00:00.819Z",
+        "barcode": "4089098139922",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/f5/64/8d/f5648dfe5de01c68629ffbdc9d3f3d8b.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=zip-grommet-cuff"
+    },
+    {
+      "id": 29,
+      "title": "Open Spiral Ring",
+      "description": "A flexible open-size ring with a spiral twist.",
+      "category": "rings",
+      "price": 10.99,
+      "discountPercentage": 12.15,
+      "rating": 4.42,
+      "stock": 99,
+      "tags": [
+        "trendy",
+        "ring"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "RIN-TRE-029",
+      "weight": 1,
+      "dimensions": {
+        "width": 3.27,
+        "height": 3.82,
+        "depth": 1.61
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-05-28T00:00:00.701Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-05-04T00:00:00.776Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-07-05T00:00:00.850Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2025-09-28T00:00:00.606Z",
+        "updatedAt": "2025-10-20T00:00:00.655Z",
+        "barcode": "8014135152536",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+     "https://i.pinimg.com/1200x/3c/67/89/3c67892d593a78567753f80a4aac23c1.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=open-spiral-ring"
+    },
+    {
+      "id": 30,
+      "title": "Cyber Star Cord",
+      "description": "A sharp four-point Y2K star on a soft black cord.",
+      "category": "necklaces",
+      "price": 33.99,
+      "discountPercentage": 12.5,
+      "rating": 4.18,
+      "stock": 40,
+      "tags": [
+        "trendy",
+        "necklace"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "NEC-TRE-030",
+      "weight": 2,
+      "dimensions": {
+        "width": 2.28,
+        "height": 3.81,
+        "depth": 0.29
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-09-21T00:00:00.509Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-04-20T00:00:00.718Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-07-22T00:00:00.588Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-08-10T00:00:00.264Z",
+        "updatedAt": "2025-11-03T00:00:00.256Z",
+        "barcode": "2354580465693",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/47/44/bc/4744bc36b201c5a7f4e8a4b8a78a49c9.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=cyber-star-cord"
+    },
+    {
+      "id": 31,
+      "title": "Chunky Star Ring",
+      "description": "An oversized chrome star with a Y2K feel.",
+      "category": "rings",
+      "price": 20.99,
+      "discountPercentage": 3.56,
+      "rating": 3.95,
+      "stock": 3,
+      "tags": [
+        "trendy",
+        "ring"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "RIN-TRE-031",
+      "weight": 1,
+      "dimensions": {
+        "width": 3.17,
+        "height": 6.4,
+        "depth": 0.81
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-04-02T00:00:00.184Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-07-25T00:00:00.037Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-02-16T00:00:00.102Z",
+          "reviewerName": "Salma Tarek",
+          "reviewerEmail": "salma.tarek@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-15T00:00:00.840Z",
+        "updatedAt": "2025-05-04T00:00:00.707Z",
+        "barcode": "3340469766033",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+   "https://i.pinimg.com/736x/9d/54/a0/9d54a018d7b1328d7e9adf8398d679e3.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=chunky-star-ring"
+    },
+    {
+      "id": 32,
+      "title": "Green Teardrop Earrings",
+      "description": "Teardrop green stones with classic detailing.",
+      "category": "earrings",
+      "price": 20.99,
+      "discountPercentage": 0.91,
+      "rating": 3.9,
+      "stock": 60,
+      "tags": [
+        "vintage",
+        "earrings"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "EAR-VIN-032",
+      "weight": 5,
+      "dimensions": {
+        "width": 1.96,
+        "height": 2.6,
+        "depth": 1.42
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-07-17T00:00:00.039Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-17T00:00:00.279Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-09-11T00:00:00.369Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-03-07T00:00:00.245Z",
+        "updatedAt": "2025-04-12T00:00:00.560Z",
+        "barcode": "4656589338376",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/08/ab/bc/08abbcc2f7cc85e2c7b2fd9d6722ac5f.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=green-teardrop-earrings"
+    },
+    {
+      "id": 33,
+      "title": "Flaming Heart Pendant",
+      "description": "A polished silver heart topped with sculpted flames and fine engraving, on a delicate chain.",
+      "category": "necklaces",
+      "price": 19.99,
+      "discountPercentage": 17.02,
+      "rating": 4.15,
+      "stock": 25,
+      "tags": [
+        "gothic",
+        "necklace"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "NEC-GOT-033",
+      "weight": 1,
+      "dimensions": {
+        "width": 2.07,
+        "height": 7.49,
+        "depth": 0.29
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-02-05T00:00:00.576Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-07-25T00:00:00.110Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-07-17T00:00:00.068Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-11-19T00:00:00.579Z",
+        "updatedAt": "2026-02-25T00:00:00.644Z",
+        "barcode": "1633049170446",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/8d/95/c0/8d95c024ed9a2474cb4aa54c6fc93c52.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=flaming-heart-pendant"
+    },
+    {
+      "id": 34,
+      "title": "Rose Enamel Heart Locket",
+      "description": "A gold heart locket with a hand-painted rose on white enamel. Holds two photos.",
+      "category": "necklaces",
+      "price": 42.99,
+      "discountPercentage": 10.18,
+      "rating": 3.9,
+      "stock": 85,
+      "tags": [
+        "vintage",
+        "necklace"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "NEC-VIN-034",
+      "weight": 1,
+      "dimensions": {
+        "width": 4.56,
+        "height": 7.65,
+        "depth": 0.7
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-08-09T00:00:00.823Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-04-20T00:00:00.393Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-06-12T00:00:00.214Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-09-05T00:00:00.281Z",
+        "updatedAt": "2025-10-17T00:00:00.947Z",
+        "barcode": "2464389400807",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+   "https://i.pinimg.com/736x/91/35/43/913543939795299147251b4a86aa3db9.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=rose-enamel-heart-locket"
+    },
+    {
+      "id": 35,
+      "title": "Chain Tassel Earrings",
+      "description": "Fine chains that sway softly as you move.",
+      "category": "earrings",
+      "price": 9.99,
+      "discountPercentage": 11.24,
+      "rating": 4.03,
+      "stock": 0,
+      "tags": [
+        "trendy",
+        "earrings"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "EAR-TRE-035",
+      "weight": 5,
+      "dimensions": {
+        "width": 2.26,
+        "height": 2.32,
+        "depth": 0.72
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-05T00:00:00.032Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-06-29T00:00:00.826Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-07-22T00:00:00.570Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-07-06T00:00:00.877Z",
+        "updatedAt": "2025-08-19T00:00:00.027Z",
+        "barcode": "9562050480372",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+   "https://i.pinimg.com/736x/fa/79/b4/fa79b42af9e9fbc89203d2e879734358.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=chain-tassel-earrings"
+    },
+    {
+      "id": 36,
+      "title": "Gothic Cross Drop",
+      "description": "An ornate cross with intricate detail on a short chain.",
+      "category": "earrings",
+      "price": 21.99,
+      "discountPercentage": 3.85,
+      "rating": 3.74,
+      "stock": 40,
+      "tags": [
+        "gothic",
+        "earrings"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "EAR-GOT-036",
+      "weight": 5,
+      "dimensions": {
+        "width": 2.01,
+        "height": 5.43,
+        "depth": 0.54
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-04-14T00:00:00.302Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-01-31T00:00:00.200Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-07-01T00:00:00.920Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-11-12T00:00:00.984Z",
+        "updatedAt": "2025-12-24T00:00:00.921Z",
+        "barcode": "2483974181627",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/cd/ea/b7/cdeab74a9353be3d6d0a799939c0f5df.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=gothic-cross-drop"
+    },
+    {
+      "id": 37,
+      "title": "Star and Black Bead Chain",
+      "description": "An open silver star hanging from a chain of black and silver beads.",
+      "category": "necklaces",
+      "price": 35.99,
+      "discountPercentage": 2.74,
+      "rating": 3.59,
+      "stock": 99,
+      "tags": [
+        "trendy",
+        "necklace"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "NEC-TRE-037",
+      "weight": 2,
+      "dimensions": {
+        "width": 5.2,
+        "height": 7.93,
+        "depth": 1.87
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-01-20T00:00:00.780Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-21T00:00:00.926Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-09-04T00:00:00.150Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-07-13T00:00:00.079Z",
+        "updatedAt": "2025-10-24T00:00:00.783Z",
+        "barcode": "0343236024339",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/1f/08/79/1f08798ec97ebed795d0843824fd5821.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=star-and-black-bead-chain"
+    },
+    {
+      "id": 38,
+      "title": "Filigree Heart Earrings",
+      "description": "Hearts with soft filigree openwork.",
+      "category": "earrings",
+      "price": 17.99,
+      "discountPercentage": 10.16,
+      "rating": 3.19,
+      "stock": 60,
+      "tags": [
+        "vintage",
+        "earrings"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "EAR-VIN-038",
+      "weight": 5,
+      "dimensions": {
+        "width": 2.5,
+        "height": 6.03,
+        "depth": 1.79
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-01-12T00:00:00.924Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-03-03T00:00:00.373Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-07-27T00:00:00.278Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-06-04T00:00:00.331Z",
+        "updatedAt": "2025-08-05T00:00:00.913Z",
+        "barcode": "3288633807200",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/1200x/18/d1/26/18d12613723c23540873a72bfae57bbb.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=filigree-heart-earrings"
+    },
+    {
+      "id": 39,
+      "title": "Gem Heart Huggies",
+      "description": "Small huggies with a pink gem-set heart.",
+      "category": "earrings",
+      "price": 22.99,
+      "discountPercentage": 11.15,
+      "rating": 3.68,
+      "stock": 6,
+      "tags": [
+        "trendy",
+        "earrings"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "EAR-TRE-039",
+      "weight": 2,
+      "dimensions": {
+        "width": 3.21,
+        "height": 6.84,
+        "depth": 1.2
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-07-20T00:00:00.739Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-07-28T00:00:00.783Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-07-19T00:00:00.691Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-01-18T00:00:00.155Z",
+        "updatedAt": "2026-01-27T00:00:00.331Z",
+        "barcode": "8252430255107",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/1200x/16/fc/99/16fc998fdf4fed8a365f3f2d096fd6bd.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=gem-heart-huggies"
+    },
+    {
+      "id": 40,
+      "title": "Pearl Drop Earrings",
+      "description": "A teardrop pearl in a fine gold frame.",
+      "category": "earrings",
+      "price": 21.99,
+      "discountPercentage": 15.31,
+      "rating": 4.3,
+      "stock": 60,
+      "tags": [
+        "vintage",
+        "earrings"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "EAR-VIN-040",
+      "weight": 4,
+      "dimensions": {
+        "width": 3.24,
+        "height": 7.95,
+        "depth": 1.42
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-06-27T00:00:00.252Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-03-25T00:00:00.491Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-07-24T00:00:00.219Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-08-07T00:00:00.074Z",
+        "updatedAt": "2025-09-25T00:00:00.048Z",
+        "barcode": "6320123972319",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/736x/43/3f/df/433fdf99e3fe319b44c7d7a1dcf750bb.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=pearl-drop-earrings"
+    },
+    {
+      "id": 41,
+      "title": "Mini Peridot Heart",
+      "description": "A sparkling green heart on a fine chain. Light and elegant for everyday wear.",
+      "category": "necklaces",
+      "price": 23.99,
+      "discountPercentage": 18.19,
+      "rating": 3.76,
+      "stock": 99,
+      "tags": [
+        "vintage",
+        "necklace"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "NEC-VIN-041",
+      "weight": 3,
+      "dimensions": {
+        "width": 2.56,
+        "height": 3.67,
+        "depth": 1.72
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-08-13T00:00:00.539Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-05-29T00:00:00.851Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-03-26T00:00:00.535Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-06-15T00:00:00.991Z",
+        "updatedAt": "2026-10-01T00:00:00.557Z",
+        "barcode": "5525560954854",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+       "https://i.pinimg.com/736x/6f/cd/95/6fcd954213f39ce0e4ad8a9c3fbbade7.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=mini-peridot-heart"
+    },
+    {
+      "id": 42,
+      "title": "Fleur Cross Signet",
+      "description": "A wide band with a fleur-de-lis cross design.",
+      "category": "rings",
+      "price": 13.99,
+      "discountPercentage": 9.92,
+      "rating": 3.93,
+      "stock": 60,
+      "tags": [
+        "gothic",
+        "ring"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "RIN-GOT-042",
+      "weight": 3,
+      "dimensions": {
+        "width": 3.8,
+        "height": 2.98,
+        "depth": 1.49
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-11T00:00:00.430Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-09-27T00:00:00.408Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-06-09T00:00:00.374Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-04-29T00:00:00.599Z",
+        "updatedAt": "2026-05-21T00:00:00.043Z",
+        "barcode": "6460335737272",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+   "https://i.pinimg.com/736x/c6/89/4b/c6894bf373e633ee7218007634231dee.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=fleur-cross-signet"
+    },
+    {
+      "id": 43,
+      "title": "Skull Leather Strap",
+      "description": "A slim leather strap with small silver skulls.",
+      "category": "bracelets",
+      "price": 29.99,
+      "discountPercentage": 18.44,
+      "rating": 3.52,
+      "stock": 60,
+      "tags": [
+        "gothic",
+        "bracelet"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "BRA-GOT-043",
+      "weight": 5,
+      "dimensions": {
+        "width": 4.14,
+        "height": 4.13,
+        "depth": 1.27
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-08-28T00:00:00.429Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-09-14T00:00:00.235Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-10-05T00:00:00.586Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-06-01T00:00:00.549Z",
+        "updatedAt": "2026-08-13T00:00:00.479Z",
+        "barcode": "3261450978119",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/fc/78/e4/fc78e4e90f223cc80e6fd6b1dc31435a.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=skull-leather-strap"
+    },
+    {
+      "id": 44,
+      "title": "Star Hoops",
+      "description": "Silver hoops with a tiny dangling star.",
+      "category": "earrings",
+      "price": 12.99,
+      "discountPercentage": 3.97,
+      "rating": 4.0,
+      "stock": 12,
+      "tags": [
+        "trendy",
+        "earrings"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "EAR-TRE-044",
+      "weight": 5,
+      "dimensions": {
+        "width": 4.69,
+        "height": 7.14,
+        "depth": 1.98
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-08-01T00:00:00.292Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-10-01T00:00:00.510Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-05-08T00:00:00.370Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-06-14T00:00:00.524Z",
+        "updatedAt": "2025-07-05T00:00:00.790Z",
+        "barcode": "6064433762636",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+     "https://i.pinimg.com/1200x/27/df/37/27df375b415212fe2232c8390853c95f.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=star-hoops"
+    },
+    {
+      "id": 45,
+      "title": "Black Heart Spike",
+      "description": "A small black heart with a spiked border.",
+      "category": "earrings",
+      "price": 21.99,
+      "discountPercentage": 10.75,
+      "rating": 4.64,
+      "stock": 25,
+      "tags": [
+        "gothic",
+        "earrings"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "EAR-GOT-045",
+      "weight": 3,
+      "dimensions": {
+        "width": 4.83,
+        "height": 4.49,
+        "depth": 1.37
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-03-16T00:00:00.055Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-08-06T00:00:00.043Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-06-10T00:00:00.839Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-02-01T00:00:00.254Z",
+        "updatedAt": "2025-02-11T00:00:00.163Z",
+        "barcode": "4654346791761",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/736x/96/2e/92/962e92045a817bbd27389bed320ac232.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=black-heart-spike"
+    },
+    {
+      "id": 46,
+      "title": "Spiral Cord Necklace",
+      "description": "A silver spiral pendant on an adjustable black wax cord.",
+      "category": "necklaces",
+      "price": 24.99,
+      "discountPercentage": 8.68,
+      "rating": 3.39,
+      "stock": 3,
+      "tags": [
+        "trendy",
+        "necklace"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "NEC-TRE-046",
+      "weight": 1,
+      "dimensions": {
+        "width": 5.63,
+        "height": 1.91,
+        "depth": 1.6
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-08-31T00:00:00.504Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-06-23T00:00:00.444Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-09-26T00:00:00.324Z",
+          "reviewerName": "Salma Tarek",
+          "reviewerEmail": "salma.tarek@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-07-06T00:00:00.232Z",
+        "updatedAt": "2026-09-03T00:00:00.012Z",
+        "barcode": "6336171521543",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/736x/b9/7f/d0/b97fd0a1f5174005ed29edf8e27381a1.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=spiral-cord-necklace"
+    },
+    {
+      "id": 47,
+      "title": "Rosary Bead Bracelet",
+      "description": "Matte black beads with a tiny cross on stretch cord.",
+      "category": "bracelets",
+      "price": 22.99,
+      "discountPercentage": 8.9,
+      "rating": 3.33,
+      "stock": 6,
+      "tags": [
+        "gothic",
+        "bracelet"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "BRA-GOT-047",
+      "weight": 1,
+      "dimensions": {
+        "width": 5.08,
+        "height": 5.9,
+        "depth": 1.72
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-02-15T00:00:00.664Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-30T00:00:00.644Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-04-11T00:00:00.573Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-02-02T00:00:00.784Z",
+        "updatedAt": "2026-02-06T00:00:00.131Z",
+        "barcode": "1502236300278",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/736x/e1/5a/eb/e15aeb1b446680469e27e4b0f51a5260.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=rosary-bead-bracelet"
+    },
+    {
+      "id": 48,
+      "title": "White Studded Wrap",
+      "description": "A white multi-wrap strap with sparkly studs.",
+      "category": "bracelets",
+      "price": 25.99,
+      "discountPercentage": 13.21,
+      "rating": 4.39,
+      "stock": 6,
+      "tags": [
+        "trendy",
+        "bracelet"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "BRA-TRE-048",
+      "weight": 5,
+      "dimensions": {
+        "width": 2.17,
+        "height": 4.17,
+        "depth": 0.87
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-03-25T00:00:00.547Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-05-14T00:00:00.313Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-08-07T00:00:00.959Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-02-04T00:00:00.077Z",
+        "updatedAt": "2026-02-25T00:00:00.972Z",
+        "barcode": "5597309913319",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+    "https://i.pinimg.com/736x/22/9e/4b/229e4b96472122d3ccfeaa3534c705c8.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=white-studded-wrap"
+    },
+    {
+      "id": 49,
+      "title": "Pearl Chain Bracelet",
+      "description": "Small pearls set between gold links.",
+      "category": "bracelets",
+      "price": 23.99,
+      "discountPercentage": 14.07,
+      "rating": 3.81,
+      "stock": 60,
+      "tags": [
+        "vintage",
+        "bracelet"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "BRA-VIN-049",
+      "weight": 3,
+      "dimensions": {
+        "width": 4.32,
+        "height": 7.79,
+        "depth": 1.05
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-03-15T00:00:00.527Z",
+          "reviewerName": "Yasmin Fathy",
+          "reviewerEmail": "yasmin.fathy@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-02-19T00:00:00.759Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-01-02T00:00:00.170Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-08-12T00:00:00.016Z",
+        "updatedAt": "2025-10-18T00:00:00.379Z",
+        "barcode": "8980355173515",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/736x/5c/b3/42/5cb342939297e945c0679b8e7b1da5c1.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=pearl-chain-bracelet"
+    },
+    {
+      "id": 50,
+      "title": "Thorn Rose Ring",
+      "description": "A sculpted rose with thorned stems that curl around the finger.",
+      "category": "rings",
+      "price": 16.99,
+      "discountPercentage": 7.58,
+      "rating": 4.02,
+      "stock": 85,
+      "tags": [
+        "gothic",
+        "ring"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "RIN-GOT-050",
+      "weight": 4,
+      "dimensions": {
+        "width": 3.92,
+        "height": 6.57,
+        "depth": 1.53
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-07-24T00:00:00.990Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-09-22T00:00:00.254Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-07-05T00:00:00.848Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2026-06-27T00:00:00.576Z",
+        "updatedAt": "2026-10-08T00:00:00.181Z",
+        "barcode": "1782055596805",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+  "https://i.pinimg.com/1200x/65/0f/40/650f4042e174214c71f51904872f8234.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=thorn-rose-ring"
+    },
+    {
+      "id": 51,
+      "title": "Twist Duo Ring",
+      "description": "Two interlocked bands in one, black and silver.",
+      "category": "rings",
+      "price": 20.99,
+      "discountPercentage": 11.5,
+      "rating": 4.11,
+      "stock": 0,
+      "tags": [
+        "trendy",
+        "ring"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "RIN-TRE-051",
+      "weight": 2,
+      "dimensions": {
+        "width": 2.11,
+        "height": 6.23,
+        "depth": 1.22
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-06-06T00:00:00.672Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-05-01T00:00:00.900Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-07-08T00:00:00.887Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-05-03T00:00:00.903Z",
+        "updatedAt": "2026-07-31T00:00:00.550Z",
+        "barcode": "5427014451623",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+      "https://i.pinimg.com/1200x/a9/30/9c/a9309c7d34b97c7b3f3e881568c63f93.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=twist-duo-ring"
+    },
+    {
+      "id": 52,
+      "title": "Rose Bangle",
+      "description": "A rigid bangle with painted rose engraving.",
+      "category": "bracelets",
+      "price": 26.99,
+      "discountPercentage": 11.42,
+      "rating": 4.66,
+      "stock": 0,
+      "tags": [
+        "vintage",
+        "bracelet"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "BRA-VIN-052",
+      "weight": 2,
+      "dimensions": {
+        "width": 3.84,
+        "height": 4.51,
+        "depth": 1.83
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-10-02T00:00:00.114Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-08-03T00:00:00.336Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-04-15T00:00:00.669Z",
+          "reviewerName": "Salma Tarek",
+          "reviewerEmail": "salma.tarek@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2026-02-04T00:00:00.264Z",
+        "updatedAt": "2026-03-30T00:00:00.225Z",
+        "barcode": "3443440805532",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/5f/cf/bc/5fcfbc8c27127978fac774ab5b330775.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=rose-bangle"
+    },
+    {
+      "id": 53,
+      "title": "Skull Sacred Heart Rosary",
+      "description": "A black heart ringed with silver spikes and a tiny skull at the center, hung from matte black beads and an ornate cross. A true statement piece.",
+      "category": "necklaces",
+      "price": 42.99,
+      "discountPercentage": 16.29,
+      "rating": 3.88,
+      "stock": 99,
+      "tags": [
+        "gothic",
+        "necklace"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "NEC-GOT-053",
+      "weight": 1,
+      "dimensions": {
+        "width": 3.98,
+        "height": 3.77,
+        "depth": 1.02
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-09-01T00:00:00.644Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-04-06T00:00:00.096Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-06-05T00:00:00.145Z",
+          "reviewerName": "Salma Tarek",
+          "reviewerEmail": "salma.tarek@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2026-04-22T00:00:00.064Z",
+        "updatedAt": "2026-06-19T00:00:00.060Z",
+        "barcode": "0857351220064",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/29/de/ba/29deba1c15fbadd220635d54c5d642cf.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=skull-sacred-heart-rosary"
+    },
+    {
+      "id": 54,
+      "title": "Spiral Dangle",
+      "description": "A small silver spiral on a short chain.",
+      "category": "earrings",
+      "price": 14.99,
+      "discountPercentage": 14.62,
+      "rating": 3.83,
+      "stock": 85,
+      "tags": [
+        "trendy",
+        "earrings"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "EAR-TRE-054",
+      "weight": 5,
+      "dimensions": {
+        "width": 4.28,
+        "height": 6.68,
+        "depth": 0.86
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-07-29T00:00:00.256Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-01-13T00:00:00.009Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-03-14T00:00:00.232Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-02-13T00:00:00.068Z",
+        "updatedAt": "2026-03-25T00:00:00.926Z",
+        "barcode": "6522101323131",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+   "https://i.pinimg.com/1200x/45/da/66/45da665801008bd363fdd0feb80b7e6f.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=spiral-dangle"
+    },
+    {
+      "id": 55,
+      "title": "Open Cuff Trio",
+      "description": "A set of three slim silver cuffs with ball ends.",
+      "category": "bracelets",
+      "price": 24.99,
+      "discountPercentage": 4.21,
+      "rating": 3.91,
+      "stock": 40,
+      "tags": [
+        "trendy",
+        "bracelet"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "BRA-TRE-055",
+      "weight": 2,
+      "dimensions": {
+        "width": 5.5,
+        "height": 7.47,
+        "depth": 1.44
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-05-07T00:00:00.802Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Love the vibe!",
+          "date": "2026-04-22T00:00:00.204Z",
+          "reviewerName": "Mariam Samir",
+          "reviewerEmail": "mariam.samir@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-06-26T00:00:00.123Z",
+          "reviewerName": "Farida Nabil",
+          "reviewerEmail": "farida.nabil@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2026-05-17T00:00:00.878Z",
+        "updatedAt": "2026-06-06T00:00:00.850Z",
+        "barcode": "7220522214222",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/736x/6c/2a/c2/6c2ac276b26821667bbe247e8db1d932.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=open-cuff-trio"
+    },
+    {
+      "id": 56,
+      "title": "Rose Enamel Studs",
+      "description": "Small painted roses on white enamel with gold edges.",
+      "category": "earrings",
+      "price": 10.99,
+      "discountPercentage": 18.42,
+      "rating": 4.0,
+      "stock": 25,
+      "tags": [
+        "vintage",
+        "earrings"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "EAR-VIN-056",
+      "weight": 2,
+      "dimensions": {
+        "width": 3.79,
+        "height": 3.47,
+        "depth": 0.42
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-01-13T00:00:00.765Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-09-05T00:00:00.579Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-06-02T00:00:00.676Z",
+          "reviewerName": "Layla Hassan",
+          "reviewerEmail": "layla.hassan@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-01-15T00:00:00.818Z",
+        "updatedAt": "2026-03-01T00:00:00.437Z",
+        "barcode": "1449272927375",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+  "https://i.pinimg.com/1200x/1f/a0/24/1fa024b256b5dd5f23ce609a302877cb.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=rose-enamel-studs"
+    },
+    {
+      "id": 57,
+      "title": "Striped Bangle",
+      "description": "A wide bangle with black and white stripes.",
+      "category": "bracelets",
+      "price": 23.99,
+      "discountPercentage": 11.71,
+      "rating": 3.87,
+      "stock": 85,
+      "tags": [
+        "trendy",
+        "bracelet"
+      ],
+      "brand": "Chrome Candy",
+      "sku": "BRA-TRE-057",
+      "weight": 3,
+      "dimensions": {
+        "width": 5.61,
+        "height": 6.62,
+        "depth": 0.66
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2026-07-22T00:00:00.335Z",
+          "reviewerName": "Lina Mahmoud",
+          "reviewerEmail": "lina.mahmoud@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great quality!",
+          "date": "2026-09-08T00:00:00.239Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-05-14T00:00:00.359Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2026-01-02T00:00:00.066Z",
+        "updatedAt": "2026-04-11T00:00:00.572Z",
+        "barcode": "1453116651931",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/736x/0d/d5/b2/0dd5b2a90d9f249e80c6a184dd83d106.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=striped-bangle"
+    },
+    {
+      "id": 58,
+      "title": "Cameo Charm Bracelet",
+      "description": "A fine gold chain with a single cameo charm.",
+      "category": "bracelets",
+      "price": 22.99,
+      "discountPercentage": 2.22,
+      "rating": 3.95,
+      "stock": 40,
+      "tags": [
+        "vintage",
+        "bracelet"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "BRA-VIN-058",
+      "weight": 3,
+      "dimensions": {
+        "width": 1.08,
+        "height": 1.21,
+        "depth": 1.26
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2026-06-24T00:00:00.104Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-02-23T00:00:00.559Z",
+          "reviewerName": "Jana Ashraf",
+          "reviewerEmail": "jana.ashraf@example.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-02-20T00:00:00.464Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2025-05-16T00:00:00.074Z",
+        "updatedAt": "2025-07-31T00:00:00.370Z",
+        "barcode": "1546020742510",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/1200x/33/a5/2f/33a52fba18cf214b49bd45967eb3676c.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=cameo-charm-bracelet"
+    },
+    {
+      "id": 59,
+      "title": "Cameo Portrait Locket",
+      "description": "A raised portrait cameo on a warm coral background with a carved gold frame.",
+      "category": "necklaces",
+      "price": 18.99,
+      "discountPercentage": 14.7,
+      "rating": 4.27,
+      "stock": 60,
+      "tags": [
+        "vintage",
+        "necklace"
+      ],
+      "brand": "Velvet Relic",
+      "sku": "NEC-VIN-059",
+      "weight": 4,
+      "dimensions": {
+        "width": 5.67,
+        "height": 5.86,
+        "depth": 1.02
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Decent for the price.",
+          "date": "2026-01-07T00:00:00.623Z",
+          "reviewerName": "Malak Ibrahim",
+          "reviewerEmail": "malak.ibrahim@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Gorgeous, looks even better in person!",
+          "date": "2026-02-11T00:00:00.092Z",
+          "reviewerName": "Nour Adel",
+          "reviewerEmail": "nour.adel@example.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Nice, but smaller than expected.",
+          "date": "2026-03-01T00:00:00.263Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-01-31T00:00:00.615Z",
+        "updatedAt": "2025-05-22T00:00:00.089Z",
+        "barcode": "4264692036219",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+"https://i.pinimg.com/736x/0a/24/67/0a2467db3644a7fc53a958011f0d4e2d.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=cameo-portrait-locket"
+    },
+    {
+      "id": 60,
+      "title": "Dagger Dangle",
+      "description": "A slim dagger with a sharp line. Made for dramatic looks.",
+      "category": "earrings",
+      "price": 16.99,
+      "discountPercentage": 9.09,
+      "rating": 4.32,
+      "stock": 25,
+      "tags": [
+        "gothic",
+        "earrings"
+      ],
+      "brand": "Ravenmoor",
+      "sku": "EAR-GOT-060",
+      "weight": 5,
+      "dimensions": {
+        "width": 1.37,
+        "height": 7.35,
+        "depth": 0.21
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Clasp feels a bit weak.",
+          "date": "2026-04-03T00:00:00.683Z",
+          "reviewerName": "Hana Mostafa",
+          "reviewerEmail": "hana.mostafa@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Obsessed with this piece!",
+          "date": "2026-05-22T00:00:00.135Z",
+          "reviewerName": "Sara Khaled",
+          "reviewerEmail": "sara.khaled@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pretty, fast shipping!",
+          "date": "2026-02-16T00:00:00.473Z",
+          "reviewerName": "Rana Gamal",
+          "reviewerEmail": "rana.gamal@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2026-01-17T00:00:00.822Z",
+        "updatedAt": "2026-04-30T00:00:00.582Z",
+        "barcode": "0272251890473",
+        "qrCode": "https://placehold.co/200x200?text=QR"
+      },
+      "images": [
+     "https://i.pinimg.com/1200x/e7/d0/e9/e7d0e96330726180fde69b116733d630.jpg"
+      ],
+      "thumbnail": "https://placehold.co/300x300/111111/e8e8e8?text=dagger-dangle"
+    }
+  ],
+  "total": 60,
+  "skip": 0,
+  "limit": 60
+}
